@@ -15,5 +15,9 @@ public class Utility {
 	public void m4() {
 		System.out.println("Utility.enclosing_method()");
 	}
+	
+	public void m7() {
+		System.out.println("Utility.m7()");
+	}
 
 }
