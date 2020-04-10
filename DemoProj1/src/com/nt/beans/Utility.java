@@ -10,6 +10,7 @@ public class Utility {
 	public void m1() {
 
 		System.out.println("Utility m1() method:fghjkkk");
+		System.out.println("life is over bcz of corona virus");
 	}
 
 }
