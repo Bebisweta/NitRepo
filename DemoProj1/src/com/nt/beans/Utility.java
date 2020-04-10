@@ -12,5 +12,8 @@ public class Utility {
 		System.out.println("Utility m1() method:fghjkkk");
 		System.out.println("life is over bcz of corona virus");
 	}
+	public void m4() {
+		System.out.println("Utility.enclosing_method()");
+	}
 
 }
