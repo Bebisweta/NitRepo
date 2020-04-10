@@ -20,4 +20,10 @@ public class Utility {
 		System.out.println("Utility.m7()....");
 	}
 
+	public void m6() {
+		System.out.println("Utility.m6()");
+		
+
+	}
+
 }
